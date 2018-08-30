@@ -1,13 +1,15 @@
 {
-  "description": "wepydemo",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wxea7ee88aa600987b4",
-  "projectname": "hzlshen",
-  "miniprogramRoot": "./dist"
+	"description": "wepydemo",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxea7ee88a600987b4",
+	"projectname": "hzlshen",
+	"miniprogramRoot": "./dist",
+	"condition": {}
 }
